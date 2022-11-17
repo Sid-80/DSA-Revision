@@ -1,0 +1,5 @@
+1.Maximum nodes at level L = 2^L
+  At L=0, nodes = 1
+  At L=1, nodes = 2
+  At L=2, nodes = 4
+2.Maximum nodes in a tree of height H is (2^H - 1)
